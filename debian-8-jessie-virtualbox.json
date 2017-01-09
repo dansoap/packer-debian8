@@ -65,6 +65,7 @@
             "scripts/base.sh",
             "scripts/vagrant.sh",
             "scripts/virtualbox.sh",
+            "scripts/salt.sh",
             "scripts/cleanup.sh",
             "scripts/minimize.sh"
           ]
